@@ -1,5 +1,5 @@
 {
-  "name": "CodeWithConnor",
+  "name": "codewithconnor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://connoro7.github.io/codewithconnor"
+  "homepage": "https://connoro7.github.io/codewithconnor",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
