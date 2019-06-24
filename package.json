@@ -1,7 +1,6 @@
 {
   "name": "codewithconnor",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -12,5 +11,13 @@
   "homepage": "https://connoro7.github.io/codewithconnor",
   "dependencies": {
     "gh-pages": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connoro7/codewithconnor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/connoro7/codewithconnor/issues"
+  },
+  "description": ""
 }
