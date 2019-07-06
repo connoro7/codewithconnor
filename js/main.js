@@ -1,6 +1,7 @@
 // Responsive Nav
 // Code from https://codepen.io/neilso/pen/ziwgI
-/* $(function () {
+/*
+$(function () {
     menu = $('nav ul');
 
     $('#openup').on('click', function (e) {
