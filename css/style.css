@@ -175,7 +175,7 @@ small {
     content: '';
     display: block;
     background: #353535;
-    opacity: 0.8;
+    opacity: 0;
     position: absolute;
     top: 0;
     right: 0;
@@ -185,7 +185,7 @@ small {
 }
 
 .highlight:hover::before {
-    opacity: 0.2;
+    opacity: 0.1;
 }
 
 /* ! Traversy Course Main Content */
